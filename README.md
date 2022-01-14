@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @itsisavalencia
 - 👀 I’m interested in gaming, medicine and animals
 - 🌱 I’m currently learning biomed and cs50
-- 💞️ I’m looking to collaborate on not sure!
 - 📫 How to reach me -> on insta @itsisavalencia
 
 <!---
